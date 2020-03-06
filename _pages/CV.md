@@ -26,6 +26,7 @@ Teaching Assistant – Economics and Political Science
 
 ## Education 
 - Aarhus University - 2012 - 2020 
+- Aarhus University 
 
 #### Working papers 
 - wp1 
