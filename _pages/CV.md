@@ -1,6 +1,8 @@
 ---
 permalink: /cv/
 title: "CV"
+layout: single
+classes: wide
 ---
 
 ## Experience 
