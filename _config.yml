@@ -5,6 +5,10 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
+# Build: 
+# 'bundle exec jekyll serve'
+# 'http://localhost:4000/'
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
@@ -13,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: kpbertelsen
+title: K P Bertelsen
 email: kristoffer@econ.au.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Personal home page of Kristoffer Pons Bertelsen 
